@@ -7,7 +7,7 @@ Ad ogni ricetta è assegnata una **complessità** e un **tempo**:
 
 Nella tabella sono anche indicati utensili da cucina non comuni necessari alla preparazione del piatto
 
-## Elenco di ricetta
+## Elenco di ricette
 
 <u>*Cliccare sul nome del piatto per visualizzare la pagina della ricetta*</u>
 
