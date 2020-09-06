@@ -1,5 +1,6 @@
 # Ricettario
 
-[**LINK AL RICETTARIO**](https://albertosantagostino.github.io/ricettario/)
+#### [**LINK AL RICETTARIO**](https://albertosantagostino.github.io/ricettario/)
 
-*(English speakers please read [this](README_eng.md))*
+*(English speaker, [read here](README_eng.md))*
+
