@@ -1,5 +1,9 @@
 # Pizza napoletana (H 70%)
 
+<p align="center">
+<img src="../img/panificati_pizza_napoletana_1.jpg" alt="Pizza napoletana" width="300"/>
+</p>
+
 ## Ingredienti
 
 **Impasto**
@@ -31,21 +35,24 @@ _Dosi indicative <u>per 3 panetti</u>_
 * Origano (opzionale)
 * Foglie di basilico
 
-**Sugo (preparare in anticipo) **  
-Scolare la passata in un colino a maglie fini in modo che butti fuori l'acqua e metterla in una ciotola. Aggiungere sale, olio ed origano e mescolare
+**Sugo (preparare in anticipo)**  
+Scolare la passata di pomodoro in un colino a maglie fini in modo che butti fuori l'acqua e metterla in una ciotola. Aggiungere sale, olio ed origano e mescolare
 
 ## Preparazione
 
 ### Impasto
 
 Iniziare con una ciotola d'acqua, sciogliere il lievito a mano ed aggiungere il 60% della farina totale (fare riferimento all'ultima colonna della tabella per le dosi già calcolate), mescolare bene e lasciare riposare per 20 minuti
+
 Riprendere l'impasto integrando la restante farina (40% del totale) a manciate (aspettando venga assorbita quella precedente). Quando la massa è lavorabile spostare in spianatoia, inserire il sale e fare 5 minuti di pausa
+
 Riprendere l'impasto cercando di incorporare più aria possibile al suo  interno, facendo delle pieghe per ossigenarlo. Una volta che la massa è compatta e non appiccicosa l'impasto è pronto
+
 Mettere l'impasto in una ciotola di vetro, uno straccio umido sopra l'impasto (a contatto) e della pellicola trasparente a sigillare il tutto. Fare riposare per circa 19 ore in frigorifero (7°)
 
 ### Staglio
 
-Riprendere l'impasto e stagliare i panetti inglobando aria al loro interno facendoli "scivolare" sulla spianatoia. Ogni panetto deve pesare circa 240 g. Far lievitare i panetti per circa 5 ore a temperatura ambiente in una teglia leggermente spolverata di semola e ben chiusa con pellicola trasparente
+Riprendere l'impasto e stagliare i panetti inglobando aria al loro interno facendoli "scivolare" sulla spianatoia. Ogni panetto deve pesare circa 240g.  Far lievitare i panetti per circa 5 ore a temperatura ambiente in una teglia leggermente spolverata di semola e ben chiusa con pellicola trasparente
 
 ### Composizione ed infornata
 
