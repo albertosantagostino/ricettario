@@ -1,7 +1,7 @@
 # Pizza napoletana (H 70%)
 
 <p align="center">
-<img src="../img/panificati_pizza_napoletana_1.jpg" alt="Pizza napoletana" width="300"/>
+<img src="../img/panificati_pizza_napoletana_1.jpg" alt="Pizza napoletana" onclick="window.open(this.src)" width="250"/>
 </p>
 
 ## Ingredienti

@@ -1,7 +1,7 @@
 # Focaccia con salsiccia, cipolle, patate e rosmarino
 
 <p align="center">
-<img src="../img/panificati_focaccia_cicciona_1.jpg" alt="Focaccia cicciona" width="300"/><img src="../img/panificati_focaccia_cicciona_2.jpg" alt="Focaccia cicciona" width="300"/>
+<img src="../img/panificati_focaccia_cicciona_1.jpg" alt="Focaccia cicciona" onclick="window.open(this.src)" width="250"/> <img src="../img/panificati_focaccia_cicciona_2.jpg" alt="Focaccia cicciona"onclick="window.open(this.src)" width="250"/>
 </p>
 
 ## Ingredienti
