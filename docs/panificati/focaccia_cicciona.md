@@ -8,19 +8,21 @@
 
 **Impasto**
 
+* 500g **farina** (**00** o **W170**)
+
+* 5g **lievito di birra** fresco
 * 380ml acqua
-* 5g lievito di birra fresco
-* 500g farina (00 o W170)
 * 3 cucchiai olio d'oliva
 * 2 cucchiaini sale fino
 
 **Condimento**
 
-* 3-4 patate
-* q.b. salsiccia
-* 2 cipolle
-* 2 rametti di rosmarino
-* Mozzarella (opzionale)
+* 3-4 **patate**
+* q.b. **salsiccia**
+* 2 **cipolle**
+* 2 rametti di **rosmarino**
+* **Mozzarella** (opzionale)
+* Sale grosso
 
 ## Preparazione
 
@@ -28,7 +30,7 @@
 
 Unire lievito di birra ed acqua, mescolare bene e lasciare riposare 5-10 minuti.
 Mettere quasi tutta la farina (450g circa) in una ciotola ed aggiungere poco a  poco l'acqua e lievito miscelando con una forchetta lentamente.  Continuare a miscelare nella ciotola, se serve aiutarsi con la spatolina per rimuovere l'impasto appiccicoso dai bordi della ciotola.
-Lavorare bene l'impasto con la forchetta per renderlo meno appiccicoso ed infine trasferirlo sulla spianatoia infarinata. Continuare con la spatolina a lavorare ad aggiungere la rimanente farina poco a poco. L'impasto finale sarà molto morbido ma non deve risultare troppo appiccicoso al tatto.  Spostare l'impasto in una ciotola e coprirlo con pellicola trasparente  (lasciando lateralmente buchi per far passare l'aria). Coprire la  ciotola con uno straccio e mettere a riposare dalle 5 alle 8 ore.
+Lavorare bene l'impasto con la forchetta per renderlo meno appiccicoso ed infine trasferirlo sulla spianatoia infarinata. Continuare con la spatolina a lavorare ad aggiungere la rimanente farina poco a poco. L'impasto finale sarà molto morbido ma non deve risultare troppo appiccicoso al tatto.  Spostare l'impasto in una ciotola e coprirlo con pellicola trasparente  (lasciando lateralmente buchi per far passare l'aria). Coprire la ciotola con uno straccio e mettere a riposare dalle 5 alle 8 ore.
 
 ### Condimento
 

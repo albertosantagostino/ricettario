@@ -12,7 +12,7 @@
 * Farina (W260 o tipo 0)
 * Lievito di birra fresco
 * Sale
-* Semola di grano duro
+* Semola di grano duro per spolverare
 
 #### Dosi per pizze da circa 32 cm
 
@@ -52,11 +52,11 @@ Mettere l'impasto in una ciotola di vetro, uno straccio umido sopra l'impasto (a
 
 ### Staglio
 
-Riprendere l'impasto e stagliare i panetti inglobando aria al loro interno facendoli "scivolare" sulla spianatoia. Ogni panetto deve pesare circa 240g.  Far lievitare i panetti per circa 5 ore a temperatura ambiente in una teglia leggermente spolverata di semola e ben chiusa con pellicola trasparente
+Riprendere l'impasto e stagliare i panetti inglobando aria al loro interno facendoli "scivolare" sulla spianatoia. Ogni panetto deve pesare circa 240 g. Far lievitare i panetti per circa 5 ore a temperatura ambiente in una teglia leggermente spolverata di semola e ben chiusa con pellicola trasparente
 
 ### Composizione ed infornata
 
-Mettere della semola sulla spianatoia. Prendere il panetto ed appoggiarne entrambi i lati sulla semola, per infarinarlo. Stenderlo con premendo con delicatezza con le dita delle mani aperte al centro del panetto, mantenendo il bordo più alto in modo da ottenere un bel cornicione. Stendere il panetto finché non assume una forma circolare di circa 32 centimetri. Spostare la base per la pizza sulla pala leggermente impolverata di semola, trascinandola con decisione dal piano di lavoro
+Mettere della semola sulla spianatoia. Prendere il panetto ed appoggiarne entrambi i lati sulla semola, per infarinarlo. Stenderlo con premendo con delicatezza con le dita delle mani aperte al centro del panetto, mantenendo il bordo più alto in modo da ottenere un bel cornicione. Stendere il panetto finché non assume una forma circolare di circa 32 cm. Spostare la base per la pizza sulla pala leggermente impolverata di semola, trascinandola con decisione dal piano di lavoro
 
 Condire la pizza con il sugo. A seconda della potenza del forno aggiungere già in questa fase la mozzarella (se il forno è in grado di raggiungere temperature fino a 300°C la mozzarella può essere già aggiunta ad inizio cottura, dato che ogni pizza cuoce in pochi minuti). Il mio consiglio è di aggiungere in ogni caso la mozzarella in un secondo tempo, ad un minuto da fine cottura. Preparare in anticipo fettine di mozzarella circolari ed asciugarle bene usando fogli di carta da cucina
 

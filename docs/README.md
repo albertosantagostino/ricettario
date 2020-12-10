@@ -1,17 +1,16 @@
-## Ricette
-
-<u>*Cliccare sul nome del piatto per visualizzare la pagina della ricetta*</u>
+**Collezione di ricette personali**
 
 | Categoria      | Piatto                                                       | Complessità | Tempo | Utensili extra           |
 | -------------- | ------------------------------------------------------------ | ----------- | ----- | ------------------------ |
-| *Asiatici*     | **Baozi (ravioli cinesi al vapore)**                         | 🦆🦆🦆         | ⏳⏳⏳   | Vaporiera di bambù       |
+| *Asiatici*     | [**Baozi (ravioli al vapore)**](asiatici/baozi.md)           | 🦆🦆🦆         | ⏳⏳⏳   | Vaporiera di bambù       |
 | *Asiatici*     | **Pollo alle mandorle**                                      | 🦆           | ⏳     |                          |
+| *Asiatici*     | [**Sushi**](asiatici/sushi.md)                               | 🦆🦆🦆         | ⏳⏳⏳   | Sushi mat (stuoiette)    |
 | *Contorni*     | **Insalata belga con arance**                                | 🦆           | ⏳     |                          |
 | *Dolci*        | **Mousse al cioccolato**                                     | 🦆🦆          | ⏳     | Sbattitore elettrico     |
 | *Panificati*   | [**Focaccia cicciona (salsiccia, patate, cipolle)**](panificati/focaccia_cicciona.md) | 🦆🦆          | ⏳⏳    |                          |
 | *Panificati*   | **Piadine**                                                  | 🦆½          | ⏳⏳    |                          |
 | *Panificati*   | **Pizza**                                                    | 🦆           | ⏳⏳    |                          |
-| *Panificati*   | [**Pizza napoletana**](panificati/pizza_napoletana.md)                                         | 🦆🦆🦆         | ⏳⏳⏳   | Pietra refrattaria, pala |
+| *Panificati*   | [**Pizza napoletana**](panificati/pizza_napoletana.md)       | 🦆🦆🦆         | ⏳⏳⏳   | Pietra refrattaria, pala |
 | *Panificati*   | **Taralli**                                                  | 🦆🦆🦆         | ⏳⏳⏳   |                          |
 | *Pesce*        | **Tartare di salmone**                                       | 🦆           | ⏳     | Coppapasta               |
 | *Piatti unici* | **Pollo al curry con riso e broccoli**                       | 🦆           | ⏳⏳    |                          |
