@@ -15,12 +15,12 @@
 **Ripieno**
 
 * 450 g **carne macinata** (preferibilmente di maiale, in alternativa va bene anche mista o di manzo)
-* 2 **pak choi** (cavoli cinesi) di medie dimensioni, triturati finemente
+* 2 **pak choi** (cavoli cinesi) di medie dimensioni, tritati finemente
 * 3 cucchiai **salsa di soia**
 * 2-3 cucchiaini **zenzero fresco** grattugiato
 * 3 cucchiai **olio di sesamo**
 * 3-4 cucchiai **amido di mais**
-* 4-5 **cipollotti** triturati
+* 4-5 **cipollotti** tritati
 * 1 cucchiaino sale
 * 1 bustina di zucchero
 * 40 ml (o meno) di acqua
