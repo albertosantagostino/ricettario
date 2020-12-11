@@ -34,7 +34,7 @@
 
 (* *Meglio acquistare in pescheria il pesce da consumare crudo, richiedendone esplicitamente l'abbattimento*)
 
-  #### Utensili aggiuntivi necessari
+#### Utensili aggiuntivi necessari
 
 * Stuoiette per sushi roll
 * Teglia, ciotola o contenitore di legno per lasciar riposare e raffreddare il riso
@@ -73,6 +73,8 @@ Le dosi riportate nella sezioni **Ingredienti** servono per preparare circa un c
   * 12 uramaki (piccoli roll con alga interna e 1-2 ingredienti all'interno, tipicamente guarniti sopra con semi, salse od altro)
   * 8 futomaki (grandi roll con alga esterna e molti ingredienti all'interno)
   * 2 temaki (coni di riso ed ingredienti vari)
+  
+  (Queste dosi non sono scolpite nella pietra: ad esempio, volendo, da mezzo foglio di alga si possono ottenere 16 hosomaki)
 * Per preparare un **nigiri**, è sufficiente una pallina di riso (cotto) e un pezzo tagliato sottile di pesce
 
 ## Preparazione degli ingredienti
@@ -86,19 +88,20 @@ Lavare il riso a lungo in una ciotola con dell'acqua di rubinetto. La prima volt
 
 **Scelta della pentola e cottura**  
 La pentola da utilizzare deve essere <u>non antiaderente</u> e di dimensioni medio-piccole. Per 500 g di riso, un pentolino di diametro 20 cm ed alta 10 cm è sufficiente  
-Dopo che il riso scolato ha riposato per 15 minuti, spostarlo nella pentola, aggiungere l'acqua, <u>coprire con un coperchio</u> e mettere sul fuoco (un fornello di dimensioni medie) con la <u>fiamma al massimo</u>  
-Da questo momento in poi **il coperchio non va mai alzato**  
-Tenere sotto controllo ed **appena inizia a bollire** (fumo che fuoriesce dal coperchio) abbassare la <u>fiamma al minimo</u> e fare cuocere per **esattamente** 12 minuti (mettere un timer)  
-Trascorso questo tempo alzare la <u>fiamma al massimo</u> per **15 secondi** e poi spegnere il fuoco. Lasciare per 15 minuti a riposare (sempre senza alzare il coperchio)
+
+* Dopo che il riso scolato ha riposato per 15 minuti, spostarlo nella pentola, aggiungere l'acqua, <u>coprire con un coperchio</u> e mettere sul fuoco (un fornello di dimensioni medie) con la <u>fiamma al massimo</u>
+* Da questo momento in poi **il coperchio non va mai alzato**
+* Tenere sotto controllo ed **appena inizia a bollire** (fumo che fuoriesce dal coperchio) abbassare la <u>fiamma al minimo</u> e fare cuocere per **esattamente** 12 minuti (mettere un timer)
+* Trascorso questo tempo alzare la <u>fiamma al massimo</u> per **15 secondi** e poi spegnere il fuoco. Lasciare per 15 minuti a riposare (sempre senza alzare il coperchio)
 
 **Preparazione del condimento**  
 Mettere in un pentolino aceto di riso, zucchero e sale e cuocere a fiamma bassa finché zucchero e sale non sono completamente sciolti
 
 **Riposo del riso**  
-Far scendere il riso dalla pentola dentro un grande contenitore largo (meglio se contenitore in stile giapponese di legno) aiutandosi con un cucchiaio o una spatola. **Non "grattare"** il fondo della pentola: è normale che ci sia del riso attaccato sul fondo, che va ignorato e buttato via  
-Prendere il condimento all'aceto di riso precedentemente preparato (ancora tiepido/caldo) e farlo "colare" delicatamente sul riso non direttamente, ma facendolo cadere prima su un utensile da cucina o un cucchiaio di legno  
-Mentre il condimento viene fatto colare, sventagliare il riso con un ventaglio e girare il riso con un cucchiaio in modo che il condimento tocchi tutto il riso e che quest'ultimo si raffreddi fino ad arrivare a temperatura ambiente  
-Coprire il riso completamente con un canovaccio umido (messo sotto acqua calda e strizzato). Il riso è ora pronto per essere utilizzato
+
+* Far scendere il riso dalla pentola dentro un grande contenitore largo (meglio se contenitore di legno in stile giapponese) aiutandosi con un cucchiaio o una spatola. <u>Non "grattare" il fondo della pentola</u>: è normale che ci sia del riso attaccato sul fondo, che va ignorato e buttato via
+* Prendere il condimento all'aceto di riso precedentemente preparato (ancora tiepido/caldo) e farlo "colare" delicatamente sul riso non direttamente, ma facendolo cadere prima su un utensile da cucina o un cucchiaio di legno. Nel mentre, sventagliare il riso con un ventaglio e girarlo con un cucchiaio in modo che il condimento tocchi tutto il riso e che quest'ultimo si raffreddi fino ad arrivare a temperatura ambiente
+* Coprire il riso completamente con un canovaccio umido (messo sotto acqua calda e strizzato). Il riso è ora pronto per essere utilizzato
 
 ### Pesce ed altri ingredienti
 
@@ -156,9 +159,7 @@ Serve **mezzo foglio di alga** per produrre **6** hosomaki; **un foglio di alga*
 
 Appoggiare l'alga con la parte ruvida <u>verso l'alto</u>, sulla parte bassa della stuoietta. Bagnarsi le mani con l'acqua e prendere il riso dal contenitore, e stenderlo sull'alga, lasciando libera una striscia di circa 1 cm nella parte alta e premendo leggermente sul riso in modo che aderisca bene  
 Aggiungere nella lunghezza gli ingredienti desiderati al centro della zona con il riso. Una volta posizionati, tenendo saldamente la stuoietta ed il centro del roll, arrotolare la stuoietta e premere per dare la forma finale (vedere video proposti)  
-**Hosomaki**: spostare il roll sul tagliere e tagliarlo con decisione a metà. Prendere le metà, appaiarle e tagliarle in terzi per ottenere 6 hosomaki
-
-**Futomaki**: spostare il roll sul tagliere e tagliarlo con decisione a metà. Prendere le metà, appaiarle e tagliarle in quarti per ottenere 8 futomaki. In alternativa, tagliare ogni singolo futomaki partendo dall'intero roll (fare attenzione a farli tutti uguali)
+Spostare il roll sul tagliere e tagliarlo con decisione a metà. Prendere le metà, appaiarle e tagliarle in terzi per ottenere 6 hosomaki oppure in quarti per ottenere 8 futomaki
 
 <u>Video di riferimento</u>: [hosomaki](https://youtu.be/xsMS4bIq370?t=72), [futomaki](https://www.youtube.com/watch?v=lQnRLOoSYWs)
 
