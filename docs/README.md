@@ -4,9 +4,10 @@
 | -------------- | ------------------------------------------------------------ | ----------- | ----- | ------------------------ |
 | *Asiatici*     | [**Baozi (ravioli al vapore)**](asiatici/baozi.md)           | 🦆🦆🦆         | ⏳⏳⏳   | Vaporiera di bambù       |
 | *Asiatici*     | **Pollo alle mandorle**                                      | 🦆           | ⏳     |                          |
-| *Asiatici*     | [**Sushi**](asiatici/sushi.md)                               | 🦆🦆🦆         | ⏳⏳⏳   | Sushi mat (stuoiette)    |
+| *Asiatici*     | [**Sushi**](asiatici/sushi.md)                               | 🦆🦆🦆         | ⏳⏳⏳   | Stuoiette per sushi      |
 | *Contorni*     | **Insalata belga con arance**                                | 🦆           | ⏳     |                          |
 | *Dolci*        | **Mousse al cioccolato**                                     | 🦆🦆          | ⏳     | Sbattitore elettrico     |
+| *Dolci*        | [**Tortino al cioccolato con cuore fondente**](dolci/tortino_cioccolato.md) | 🦆           | ⏳⏳    | Pirottini di alluminio   |
 | *Panificati*   | [**Focaccia cicciona (salsiccia, patate, cipolle)**](panificati/focaccia_cicciona.md) | 🦆🦆          | ⏳⏳    |                          |
 | *Panificati*   | **Piadine**                                                  | 🦆½          | ⏳⏳    |                          |
 | *Panificati*   | **Pizza**                                                    | 🦆           | ⏳⏳    |                          |
