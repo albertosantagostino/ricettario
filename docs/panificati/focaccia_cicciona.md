@@ -1,17 +1,17 @@
 # Focaccia con salsiccia, cipolle, patate e rosmarino
 
 <p align="center">
-<img src="../img/panificati_focaccia_cicciona_1.jpg" alt="Focaccia cicciona" onclick="window.open(this.src)" width="250"/> <img src="../img/panificati_focaccia_cicciona_2.jpg" alt="Focaccia cicciona"onclick="window.open(this.src)" width="250"/>
+<img src="../img/panificati_focaccia_cicciona_1.jpg" alt="Focaccia cicciona" onclick="window.open(this.src)" width="200"/> <img src="../img/panificati_focaccia_cicciona_2.jpg" alt="Focaccia cicciona"onclick="window.open(this.src)" width="200"/>
 </p>
 
 ## Ingredienti
 
 **Impasto**
 
-* 500g **farina** (**00** o **W170**)
+* 500 g **farina** (**00** o **W170**)
 
-* 5g **lievito di birra** fresco
-* 380ml acqua
+* 5 g **lievito di birra** fresco
+* 380 ml acqua
 * 3 cucchiai olio d'oliva
 * 2 cucchiaini sale fino
 
@@ -44,5 +44,5 @@ Preparare in anticipo gli ingredienti per condire la focaccia:
 ### Cottura
 
 Dopo il riposo, 30 minuti prima di infornare, stendere l'impasto su una teglia ricoperta di carta forno (meglio ungersi le mani di olio) e fare con le dita molti buchi sulla superficie. In una ciotolina preparare olio e acqua in salamoia in parti uguali e con l'aiuto di un pennello spennellare tutta la superficie della focaccia. Lasciare 30 minuti a riposare.
-Riscaldare il forno al massimo (280 gradi) ed infornare la focaccia dopo aver fatto un giro di olio sopra e sale grosso.  Volendo le patate si possono già aggiungere ora (gli altri ingredienti  dopo).
+Riscaldare il forno al massimo (280°, modalità statica) ed infornare la focaccia dopo aver fatto un giro di olio sopra e sale grosso.  Volendo le patate si possono già aggiungere ora (gli altri ingredienti  dopo).
 Dopo 10 minuti aggiungere i rimanenti ingredienti e infornare di nuovo per almeno 15-20 minuti. Se serve spostare sul fondo del forno la teglia per rendere la cottura uniforme. Nel caso si voglia aggiungere la mozzarella, farlo a fine cottura e dopo averla asciugata bene, in modo che rimanga in forno pochi minuti e non faccia acqua. Quando anche il fondo della focaccia è ben cotto, sfornare.

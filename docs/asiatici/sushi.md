@@ -1,17 +1,17 @@
 # Sushi (nigiri, hosomaki, uramaki, futomatki, temaki)
 
 <p align="center">
-<img src="../img/asiatici_sushi_1.jpg" alt="Sushi" onclick="window.open(this.src)" width="250"/> <img src="../img/asiatici_sushi_2.jpg" alt="Sushi" onclick="window.open(this.src)" width="250"/>
+<img src="../img/asiatici_sushi_1.jpg" alt="Sushi" onclick="window.open(this.src)" width="200"/> <img src="../img/asiatici_sushi_2.jpg" alt="Sushi" onclick="window.open(this.src)" width="200"/>
 </p>
 ## Ingredienti
 
 **Riso**
 
-* 500g **riso per sushi** (in alternativa, riso originario)
-* 70ml **aceto di riso**
-* 600ml acqua
-* 60g zucchero
-* 20g sale
+* 500 g **riso per sushi** (in alternativa, riso originario)
+* 70 ml **aceto di riso**
+* 600 ml acqua
+* 60 g zucchero
+* 20 g sale
 
 **Alghe**
 

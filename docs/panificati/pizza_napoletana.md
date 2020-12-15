@@ -1,7 +1,7 @@
 # Pizza napoletana (H 70%)
 
 <p align="center">
-<img src="../img/panificati_pizza_napoletana_1.jpg" alt="Pizza napoletana" onclick="window.open(this.src)" width="250"/>
+<img src="../img/panificati_pizza_napoletana_1.jpg" alt="Pizza napoletana" onclick="window.open(this.src)" width="200"/>
 </p>
 
 ## Ingredienti
@@ -58,10 +58,10 @@ Riprendere l'impasto e stagliare i panetti inglobando aria al loro interno facen
 
 Mettere della semola sulla spianatoia. Prendere il panetto ed appoggiarne entrambi i lati sulla semola, per infarinarlo. Stenderlo con premendo con delicatezza con le dita delle mani aperte al centro del panetto, mantenendo il bordo più alto in modo da ottenere un bel cornicione. Stendere il panetto finché non assume una forma circolare di circa 32 cm. Spostare la base per la pizza sulla pala leggermente impolverata di semola, trascinandola con decisione dal piano di lavoro
 
-Condire la pizza con il sugo. A seconda della potenza del forno aggiungere già in questa fase la mozzarella (se il forno è in grado di raggiungere temperature fino a 300°C la mozzarella può essere già aggiunta ad inizio cottura, dato che ogni pizza cuoce in pochi minuti). Il mio consiglio è di aggiungere in ogni caso la mozzarella in un secondo tempo, ad un minuto da fine cottura. Preparare in anticipo fettine di mozzarella circolari ed asciugarle bene usando fogli di carta da cucina
+Condire la pizza con il sugo. A seconda della potenza del forno aggiungere già in questa fase la mozzarella (se il forno è in grado di raggiungere temperature fino a 300° la mozzarella può essere già aggiunta ad inizio cottura, dato che ogni pizza cuoce in pochi minuti). Il mio consiglio è di aggiungere in ogni caso la mozzarella in un secondo tempo, ad un minuto da fine cottura. Preparare in anticipo fettine di mozzarella circolari ed asciugarle bene usando fogli di carta da cucina
 
 ### Cottura
 
-La pietra refrattaria va riscaldata in anticipo, mettendola nel forno a forno freddo ed accendendo il forno alla temperatura massima. Dopo mezz'ora è possibile cuocere le pizze, appoggiandole con la pala sulla pietra refrattaria
+La pietra refrattaria va riscaldata in anticipo, mettendola nel forno a forno freddo ed accendendo il forno alla temperatura massima (in modalità statica). Dopo mezz'ora è possibile cuocere le pizze, appoggiandole con la pala sulla pietra refrattaria
 
 Il tempo di cottura varia a seconda della temperatura che raggiunge il forno, indicativamente 3-4 minuti per pizza. Sfornarle aiutandosi con una pala larga o la stessa pala da pizza

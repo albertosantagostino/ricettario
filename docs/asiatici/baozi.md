@@ -1,7 +1,7 @@
 # Baozi (ravioli al vapore ripieni di carne e verdure)
 
 <p align="center">
-<img src="../img/asiatici_baozi_1.jpg" alt="Baozi" onclick="window.open(this.src)" width="250"/> <img src="../img/asiatici_baozi_2.jpg" alt="Baozi" onclick="window.open(this.src)" width="250"/>
+<img src="../img/asiatici_baozi_1.jpg" alt="Baozi" onclick="window.open(this.src)" width="200"/> <img src="../img/asiatici_baozi_2.jpg" alt="Baozi" onclick="window.open(this.src)" width="200"/>
 </p>
 
 ## Ingredienti
