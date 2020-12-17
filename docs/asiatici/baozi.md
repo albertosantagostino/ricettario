@@ -1,9 +1,5 @@
 # Baozi (ravioli al vapore ripieni di carne e verdure)
 
-<p align="center">
-<img src="../img/asiatici_baozi_1.jpg" alt="Baozi" onclick="window.open(this.src)" width="200"/> <img src="../img/asiatici_baozi_2.jpg" alt="Baozi" onclick="window.open(this.src)" width="200"/>
-</p>
-
 ## Ingredienti
 
 **Impasto**
@@ -56,7 +52,7 @@ Se i ravioli non vengono subito cotti, possono essere conservati in frigorifero 
 ### Cottura
 
 Mettere dell'acqua a bollire in una pentola con diametro uguale a quello della vaporiera di bamboo  
-Nel frattempo posizionare i ravioli nella vaporiera, appoggiandoli su quadratini di carta forno precedentemente ritagliati, per evitare che si attacchino durante la cottura 
+Nel frattempo posizionare i ravioli nella vaporiera, appoggiandoli su quadratini di carta forno precedentemente ritagliati, per evitare che si attacchino durante la cottura
 
 Quando l'acqua bolle, posizionare la vaporiera con all'interno i ravioli sulla pentola, abbassare la fiamma (medio-bassa) ed impostare un timer di 18 minuti. Al termine, rimuovere la vaporiera dalla pentola ed estrarre i ravioli pronti per essere mangiati
 
@@ -69,3 +65,9 @@ ___
 I ravioli possono essere preparati in anticipo ed essere congelati (meglio se singolarmente, appoggiati su quadratini di carta forno appoggiati in piano nel freezer per mezz'oretta e successivamente spostati in una busta di plastica)
 
 Per la cottura, <u>non è necessario scongelarli</u> in precedenza. Basta preparare la vaporiera con i ravioli ancora congelati e cuocerli come indicato nella sezione **Cottura** per un tempo leggermente superiore (20 minuti) 
+
+## Foto
+
+<p align="center">
+<img src="../img/asiatici_baozi_1.jpg" alt="Baozi" onclick="window.open(this.src)" width="200"/> <img src="../img/asiatici_baozi_2.jpg" alt="Baozi" onclick="window.open(this.src)" width="200"/>
+</p>

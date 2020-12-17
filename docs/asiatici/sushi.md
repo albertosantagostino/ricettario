@@ -1,8 +1,5 @@
 # Sushi (nigiri, hosomaki, uramaki, futomatki, temaki)
 
-<p align="center">
-<img src="../img/asiatici_sushi_1.jpg" alt="Sushi" onclick="window.open(this.src)" width="200"/> <img src="../img/asiatici_sushi_2.jpg" alt="Sushi" onclick="window.open(this.src)" width="200"/>
-</p>
 ## Ingredienti
 
 **Riso**
@@ -187,4 +184,14 @@ La stuoietta non è necessaria. Prendere il riso e dargli la forma nella mano, a
 
 ## Pasto
 
-Finalmente, preparare in tavola ciotoline con salsa di soia, opzionalmente wasabi e zenzero marinato. Utilizzare bacchette di legno come posate. Buon appetito! :) 
+Finalmente, preparare in tavola ciotoline con salsa di soia, opzionalmente wasabi e zenzero marinato. Utilizzare bacchette di legno come posate. Buon appetito! :)
+
+
+
+___
+
+## Foto
+
+<p align="center">
+<img src="../img/asiatici_sushi_1.jpg" alt="Sushi" onclick="window.open(this.src)" width="200"/> <img src="../img/asiatici_sushi_2.jpg" alt="Sushi" onclick="window.open(this.src)" width="200"/>
+</p>

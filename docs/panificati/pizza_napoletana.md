@@ -1,9 +1,5 @@
 # Pizza napoletana (H 70%)
 
-<p align="center">
-<img src="../img/panificati_pizza_napoletana_1.jpg" alt="Pizza napoletana" onclick="window.open(this.src)" width="200"/>
-</p>
-
 ## Ingredienti
 
 **Impasto**
@@ -65,3 +61,9 @@ Condire la pizza con il sugo. A seconda della potenza del forno aggiungere già 
 La pietra refrattaria va riscaldata in anticipo, mettendola nel forno a forno freddo ed accendendo il forno alla temperatura massima (in modalità statica). Dopo mezz'ora è possibile cuocere le pizze, appoggiandole con la pala sulla pietra refrattaria
 
 Il tempo di cottura varia a seconda della temperatura che raggiunge il forno, indicativamente 3-4 minuti per pizza. Sfornarle aiutandosi con una pala larga o la stessa pala da pizza
+
+## Foto
+
+<p align="center">
+<img src="../img/panificati_pizza_napoletana_1.jpg" alt="Pizza napoletana" onclick="window.open(this.src)" width="200"/>
+</p>

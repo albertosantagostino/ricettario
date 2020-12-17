@@ -1,8 +1,4 @@
-# Baozi (ravioli al vapore ripieni di carne e verdure)
-
-<p align="center">
-<img src="../img/dolci_tortino_cioccolato_1.jpg" alt="Tortino al cioccolato" onclick="window.open(this.src)" width="200"/> <img src="../img/dolci_tortino_cioccolato_2.jpg" alt="Tortino al cioccolato" onclick="window.open(this.src)" width="200"/>
-</p>
+# Tortino al cioccolato (con cuore morbido/fondente)
 
 ## Ingredienti (per 6 tortini)
 
@@ -47,3 +43,9 @@ ___
 I tortini possono essere utilizzati in seguito, congelandoli (non per moltissimo tempo dato che contengono uova)
 
 Per la cottura, il tempo necessario sarà leggermente superiore, ma la discriminante per sfornarli rimane sempre la crosticina superiore, che deve essere "completamente fatta"
+
+## Foto
+
+<p align="center">
+<img src="../img/dolci_tortino_cioccolato_1.jpg" alt="Tortino al cioccolato" onclick="window.open(this.src)" width="200"/> <img src="../img/dolci_tortino_cioccolato_2.jpg" alt="Tortino al cioccolato" onclick="window.open(this.src)" width="200"/>
+</p>
