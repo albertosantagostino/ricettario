@@ -66,7 +66,7 @@ I ravioli possono essere preparati in anticipo ed essere congelati (meglio se si
 
 Per la cottura, <u>non è necessario scongelarli</u> in precedenza. Basta preparare la vaporiera con i ravioli ancora congelati e cuocerli come indicato nella sezione **Cottura** per un tempo leggermente superiore (20 minuti) 
 
-## Foto
+___
 
 <p align="center">
 <img src="../img/asiatici_baozi_1.jpg" alt="Baozi" onclick="window.open(this.src)" width="200"/> <img src="../img/asiatici_baozi_2.jpg" alt="Baozi" onclick="window.open(this.src)" width="200"/>

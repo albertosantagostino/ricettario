@@ -190,8 +190,6 @@ Finalmente, preparare in tavola ciotoline con salsa di soia, opzionalmente wasab
 
 ___
 
-## Foto
-
 <p align="center">
 <img src="../img/asiatici_sushi_1.jpg" alt="Sushi" onclick="window.open(this.src)" width="200"/> <img src="../img/asiatici_sushi_2.jpg" alt="Sushi" onclick="window.open(this.src)" width="200"/>
 </p>

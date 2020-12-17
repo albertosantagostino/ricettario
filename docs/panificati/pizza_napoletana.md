@@ -62,7 +62,7 @@ La pietra refrattaria va riscaldata in anticipo, mettendola nel forno a forno fr
 
 Il tempo di cottura varia a seconda della temperatura che raggiunge il forno, indicativamente 3-4 minuti per pizza. Sfornarle aiutandosi con una pala larga o la stessa pala da pizza
 
-## Foto
+___
 
 <p align="center">
 <img src="../img/panificati_pizza_napoletana_1.jpg" alt="Pizza napoletana" onclick="window.open(this.src)" width="200"/>
