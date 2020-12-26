@@ -1,4 +1,4 @@
-# Tortino al cioccolato (con cuore morbido/)
+# Tortino al cioccolato (con cuore morbido)
 
 ## Ingredienti (per 6 tortini)
 
@@ -30,7 +30,7 @@ Mettere i pirottini a riposare per 2-3 ore nel freezer, in modo da far congelare
 
 Accendere il forno a **200°** (modalità statica) ed infornare i tortini appoggiati su di una teglia
 
-I tortini sono pronti appena la parte superiore è interamente cotta, ovvero dopo circa 15 minuti. Sfornare i tortini e rovesciarli subito su un piatto, capovolgendoli
+I tortini sono pronti quando la parte superiore è interamente cotta (crosticina interamente formata), ovvero dopo circa 15 minuti. Sfornare i tortini e rovesciarli subito su un piatto, capovolgendoli
 
 Guarnire a piacere con zucchero a velo, cacao od altro e consumare ancora caldi
 
@@ -40,9 +40,9 @@ ___
 
 #### Conservazione dei tortini crudi in freezer
 
-I tortini possono essere utilizzati in seguito, congelandoli (non per moltissimo tempo dato che contengono uova)
+I tortini possono essere utilizzati in seguito, congelandoli nel freezer (non per troppo tempo, dato che contengono uova)
 
-Per la cottura, il tempo necessario sarà leggermente superiore, ma la discriminante per sfornarli rimane sempre la crosticina superiore, che deve essere "completamente fatta"
+Per la cottura, il procedimento è lo stesso indicato sopra, anche i tempi sono indicativamente gli stessi. La discriminante per sfornarli rimane sempre la crosticina superiore, che deve essere "completamente fatta"
 
 ___
 
