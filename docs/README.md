@@ -12,7 +12,7 @@
 | *Panificati*   | **Piadine**                                                  | 🦆½          | ⏳⏳    |                          |
 | *Panificati*   | **Pizza**                                                    | 🦆           | ⏳⏳    |                          |
 | *Panificati*   | [**Pizza napoletana**](panificati/pizza_napoletana.md)       | 🦆🦆🦆         | ⏳⏳⏳   | Pietra refrattaria, pala |
-| *Panificati*   | **Taralli**                                                  | 🦆🦆🦆         | ⏳⏳⏳   |                          |
+| *Panificati*   | [**Taralli**](panificati/taralli.md)                         | 🦆🦆          | ⏳⏳⏳   |                          |
 | *Pesce*        | **Tartare di salmone**                                       | 🦆           | ⏳     | Coppapasta               |
 | *Piatti unici* | **Pollo al curry con riso e broccoli**                       | 🦆           | ⏳⏳    |                          |
 
