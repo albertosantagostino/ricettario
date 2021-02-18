@@ -4,12 +4,12 @@
 
 **Impasto (dosi per 3 pinse)**
 
-* 430 g **farina 00**
+* 430 g **miscela di farina per pinsa**
 * 320 ml **acqua fredda** (da frigo) (divisi in 300+20)
 * 3 g **lievito** di birra fresco
 * 10 g **sale**
 * 10 g **olio**
-* **Spolvero** (farina di spolvero di risa o semola di grano duro)
+* **Spolvero** (farina di spolvero di riso o semola di grano duro)
 
 ## Preparazione
 
@@ -19,7 +19,7 @@ In una ciotola miscelare la farina, il lievito e 300 ml di acqua fredda (tenendo
 
 Rimettere l'impasto nella ciotola e tagliarlo in pezzi con un coltello od una forbice
 
-Aggiungere il sale, l'olio ed i 20 ml rimanenti di acqua fredda e fare assorbire l'acqua aggiunta lavorando l'impasto con le mani nella ciotola, per poi lasciare a riposare per 20 minuti
+Aggiungere il sale, l'olio ed i 20 ml rimanenti di acqua fredda e fare assorbire l'acqua aggiunta lavorando l'impasto con le mani nella ciotola, per poi lasciare a riposare per 20 minuti in frigorifero (per rendere l'impasto più compatto e facile da lavorare)
 
 Mettere l'impasto sulla spianatoia e piegarlo su se stesso per inglobare aria portando i bordi verso il centro. Quando liscio, spostare in ciotola e chiudere con pellicola
 
