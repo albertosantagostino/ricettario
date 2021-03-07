@@ -30,26 +30,24 @@ La mozzarella va tagliata a fettine e lasciata ad asciugare bene su carta da cuc
 
 ### Impasto
 
-Mettere il lievito nell'acqua, mescolare bene.
+Mettere il lievito nell'acqua, mescolare bene. In una ciotola grande aggiungere farina ed olio, aggiungere l'acqua poco alla volta, mescolando sempre con una forchetta finché l'impasto non risulta maneggiabile
+Trasferire su spianatoia e lasciare riposare per qualche minuto, per poi iniziare a lavorare la pasta allungandola con le mani e chiudendola su se stessa, inglobando più aria possibile. Inglobare il sale durante questa fase. Se il composto risulta troppo appiccicoso aggiungere poca farina. L'impasto finito deve risultare morbido ed elastico, non va lavorato troppo o rischia di diventare troppo duro
 
-In una ciotola grande aggiungere farina ed olio, mescolare ed aggiungere l'acqua poco alla volta, mescolando sempre con  forchetta finché l'impasto non risulta maneggiabile.
-Trasferire su spianatoia e lasciare riposare per qualche minuto, per poi iniziare a lavorare la pasta allungandola con le mani e chiudendola su se stessa, inglobando più aria possibile. Se risulta troppo appiccicoso aggiungere poca farina se serve, fino ad  ottenere una palla. Durante l'impastatura inglobare il sale.
+Trasferire l'impasto in una ciotola pulita grossa, oliare leggermente la parte superiore dell'impasto ed i bordi della ciotola. Coprire con un canovaccio leggermente umido o chiudere la ciotola con pellicola trasparente, lasciando una fessura scoperta sul bordo in modo che possa entrare un minimo di aria
 
-Idealmente l'impasto finito deve risultare morbido ed elastico, non va lavorato troppo o rischia di diventare troppo duro.
-Trasferire l'impasto in una ciotola pulita grossa, oliare leggermente il sopra dell'impasto ed i bordi della ciotola.
-
-Coprire con un canovaccio leggermente umido o chiudere la ciotola con pellicola trasparente, lasciando i bordi della ciotola senza pellicola in modo che possa entrare un minimo di aria.
-
-Lasciare lievitare in luogo senza correnti d'aria, a temperature ambiente per 5-6 ore.
-
-Quando è bella gonfia trasferire in una teglia molto oliata (o in alternativa con carta forno) e stendere senza mai rompere o piegare l'impasto. Lasciare riposare ancora 15-20 minuti. Condire con sugo (passata+olio+sale+origano), olio e sale.
+Lasciare lievitare in luogo senza correnti d'aria, a temperature ambiente per 5-6 ore. Quando l'impasto è lievitato, trasferirlo in una teglia molto oliata (o in alternativa rivestita di carta forno) e stenderlo senza mai rompere o piegarlo. (Opzionale: lasciare riposare ancora 15-30 minuti per una pizza più soffice). Condire con il sugo preparato in precedenza, olio e sale
 
 ### Cottura
 
-Infornare a forno preriscaldato al massimo (280°).
+Infornare a forno preriscaldato al massimo (280°)
 
-Quando è quasi cotta aggiungere la mozzarella a fette/pezzetti e rimettere in forno per 3-4 minuti.
-Se ci sono altri ingredienti vanno aggiunti a piacere ad inizio, metà o fine cottura.
+Quando la pizza è quasi cotta aggiungere la mozzarella a fette e rimettere in forno per 3-4 minuti. Se ci sono altri ingredienti vanno aggiunti a piacere ad inizio, metà o fine cottura
 
-Tempo di cottura complessiva dipende molto dal forno, dai 20 ai 30 minuti circa
+Il tempo di cottura complessiva dipende molto dal forno, dai 20 ai 30 minuti circa
 
+
+___
+
+<p align="center">
+<img src="../img/panificati_pizza_teglia.jpg" alt="Pizza in teglia" onclick="window.open(this.src)" width="200"/>
+</p>
