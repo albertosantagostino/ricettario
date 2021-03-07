@@ -11,7 +11,7 @@
 | *Panificati*   | [**Focaccia cicciona (salsiccia, patate, cipolle)**](panificati/focaccia_cicciona.md) | 🦆🦆          | ⏳⏳    |                                                |
 | *Panificati*   | **Piadine**                                                  | 🦆½          | ⏳⏳    |                                                |
 | *Panificati*   | [**Pinsa**](panificati/pinsa.md)                             | 🦆🦆🦆         | ⏳⏳⏳   | Pietra refrattaria, pala<br />Farina per pinsa |
-| *Panificati*   | **Pizza**                                                    | 🦆           | ⏳⏳    |                                                |
+| *Panificati*   | [**Pizza in teglia**](panificati/pizza_in_teglia.md)         | 🦆           | ⏳⏳    |                                                |
 | *Panificati*   | [**Pizza napoletana**](panificati/pizza_napoletana.md)       | 🦆🦆🦆         | ⏳⏳⏳   | Pietra refrattaria, pala                       |
 | *Panificati*   | [**Taralli**](panificati/taralli.md)                         | 🦆🦆          | ⏳⏳⏳   |                                                |
 | *Pesce*        | **Tartare di salmone**                                       | 🦆           | ⏳     | Coppapasta                                     |

@@ -38,7 +38,7 @@ Scolare la passata di pomodoro in un colino a maglie fini in modo che butti fuor
 
 ### Impasto
 
-Iniziare con una ciotola d'acqua, sciogliere il lievito a mano ed aggiungere il 60% della farina totale (fare riferimento all'ultima colonna della tabella per le dosi già calcolate), mescolare bene e lasciare riposare per 20 minuti
+Iniziare con una ciotola d'acqua, sciogliere il lievito a mano ed aggiungere il 60% della farina totale (fare riferimento alla seconda colonna della tabella per le dosi già calcolate), mescolare bene e lasciare riposare per 20 minuti
 
 Riprendere l'impasto integrando la restante farina (40% del totale) a manciate (aspettando venga assorbita quella precedente). Quando la massa è lavorabile spostare in spianatoia, inserire il sale e fare 5 minuti di pausa
 

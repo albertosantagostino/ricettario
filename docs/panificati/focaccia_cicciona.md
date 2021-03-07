@@ -7,7 +7,7 @@
 * 500 g **farina** (**00** o **W170**)
 
 * 5 g **lievito di birra** fresco
-* 380 ml acqua
+* 380 ml **acqua**
 * 3 cucchiai olio d'oliva
 * 2 cucchiaini sale fino
 
